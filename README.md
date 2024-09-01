@@ -25,6 +25,7 @@ make pull requests to our [Github repository](https://github.com/The-Cataclysm-P
 For further information on the TrinityCore project, please visit our project
 website at [TrinityCore.org](https://www.trinitycore.org).
 
+
 ## Install
 
 Detailed installation guides are available in the [wiki](https://www.trinitycore.info/display/tc/Installation+Guide) for
